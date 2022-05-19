@@ -1,3 +1,37 @@
+""" PLAIN ENGLISH
+start
+create a list to store 5 number (float)
+capture user's input 5 times for thei grades
+each time we capture the user's input, we append the number to the list
+sort the list ascending, then splice the items starting at index 2
+ once we have three highest numbers in the list, we sum them up and divide by 3
+ output a message to the user
+ end
+"""
+
+""" PSEUDOCODE
+create list
+
+capture list
+append number to list 
+
+capture list
+append number to list 
+
+capture list
+append number to list 
+
+capture list
+append number to list 
+
+capture list
+append number to list 
+
+sort the list, then splice out the two lowest number
+print message to user
+"""
+
+
 grades = []
 
 grade = input("Enter the 1st grade: ")
